@@ -1,6 +1,7 @@
 DateTime~=4.3
 pip~=19.2.3
 setuptools~=41.2.0
-fastapi
-uvicorn
+fastapi~=0.70.0
+uvicorn~=0.15.0
 httpx
+pydantic~=1.8.2
